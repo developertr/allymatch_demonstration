@@ -102,7 +102,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DemonstrationController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
+            <state relative-caret-position="313">
               <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
               <folding>
                 <element signature="e#40#59#0#PHP" expanded="true" />
@@ -165,6 +165,9 @@
       <find>mainTitle</find>
       <find>cons</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -282,6 +285,7 @@
     <option name="width" value="1920" />
     <option name="height" value="982" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -398,16 +402,15 @@
       <option name="presentableId" value="Default" />
       <updated>1538398413209</updated>
       <workItem from="1538398414853" duration="12460000" />
-      <workItem from="1538421564975" duration="13447000" />
+      <workItem from="1538421564975" duration="13598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25907000" />
+    <option name="totallyTimeSpent" value="26058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="992" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -432,7 +435,7 @@
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5019136" side_tool="true" weight="0.33714285" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="13" weight="0.32962137" />
       <window_info anchor="bottom" id="REST Client" order="14" weight="0.32962137" />
-      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" weight="0.32914287" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32914287" />
       <window_info active="true" anchor="bottom" id="Terminal" order="16" sideWeight="0.4980864" visible="true" weight="0.3363029" />
       <window_info anchor="bottom" id="Inspection Results" order="17" weight="0.32938856" />
       <window_info anchor="bottom" id="RIPS" order="18" />
@@ -525,7 +528,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DemonstrationController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
+        <state relative-caret-position="313">
           <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
           <folding>
             <element signature="e#40#59#0#PHP" expanded="true" />
