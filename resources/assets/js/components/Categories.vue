@@ -127,7 +127,7 @@
             },
             getCategories() {
                 var _this = this;
-                axios.get('get-categories/'+this.categoryId)
+                axios.get('get-categories')
                 .then(response => {
                     _this.categories=response.data;
                 })
