@@ -51,7 +51,7 @@
         methods: {
             newCategorySubmit() {
                 var _this = this;
-                axios.post('/new-category-save',
+                axios.post('new-category-save',
                     {
                         title : _this.newCategoryTitle,
                         category_id : _this.categoryId,
